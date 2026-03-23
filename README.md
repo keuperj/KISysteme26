@@ -20,9 +20,9 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 <summary> <H2> Block 2 - MapReduce </H2><BR></summary>
 
 ### Labor
-* [Python MapReduce](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_3/Assignment_MapReduce.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_MapReduce_solution.ipynb)
+* [Python MapReduce](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_MapReduce.ipynb) 
 
 ### Aufgaben
 
-* [Aufgabe 2 - Parallel MapReduce](https://colab.research.google.com/github/keuperj/MLSystems25/blob/main/week_3/Assignment_Parallel_MapReduce.ipynb) -> [Solution](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_Parallel_MapReduce_solution.ipynb)
+* [Aufgabe 2 - Parallel MapReduce](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_2/Assignment_Parallel_MapReduce.ipynb) 
 </details>
