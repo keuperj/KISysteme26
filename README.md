@@ -79,3 +79,22 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 </details>
 
+<details>
+<summary> <H2> Block 5  - DASK </H2><BR></summary>
+
+### Vorlesung: DASK
+* [Interactive DASK Slides](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/DASK.ipynb)
+  
+## Labor
+* [Dask DataFrames](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/01_dataframe.ipynb) 
+* [Dask Arrays](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/02_array.ipynb)
+* [Dask Delayed](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/03_dask.delayed.ipynb)
+* [Dask Distributed](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/04_distributed.ipynb)
+
+### Abgabe: DataFrames + Arrays Lösungen
+
+</details>
+
+
+
+
