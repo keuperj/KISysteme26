@@ -108,7 +108,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 ## optional resources
 ### in Depth CUDA
-* [official NVIDIA CUDA Tutorial](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
+* [official NVIDIA CUDA Tutorial](https://docs.nvidia.com/cuda/cuda-programming-guide/)
   
 ### Learning C/C++
 * [C++ Fundamentals - PDF Book + Slides + interactive Notebooks](https://github.com/rambasnet/CPP-Fundamentals/tree/main)
