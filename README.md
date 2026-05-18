@@ -117,3 +117,19 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 </details>
 
 
+<details>
+<summary> <H2> Blok 7 - AI Hardware - no lab </H2><BR></summary>
+</details>
+
+<details>
+<summary> <H2> Blok 8 - High Level GPU Programming </H2><BR></summary>
+
+## Demo Vorlesung
+
+* [RAPIDS CuML Demo](https://colab.research.google.com/github/keuperj/MLSystems26/blob/main/block_8/Rapids_intro.ipynb)
+* [RAPIDS CuML Benchmarks](https://colab.research.google.com/github/keuperj/MLSystems26/blob/main/block_8/cuml_benchmarks.ipynb) 
+
+### Lab
+* [Rapids](https://colab.research.google.com/github/keuperj/MLSystems26/blob/main/block_8/Rapids_intro.ipynb)
+
+</details>
