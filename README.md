@@ -118,11 +118,11 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 
 <details>
-<summary> <H2> Blok 7 - AI Hardware - no lab </H2><BR></summary>
+<summary> <H2> Block 7 - AI Hardware - no lab </H2><BR></summary>
 </details>
 
 <details>
-<summary> <H2> Blok 8 - High Level GPU Programming </H2><BR></summary>
+<summary> <H2> Block 8 - High Level GPU Programming </H2><BR></summary>
 
 ## Demo Vorlesung
 
