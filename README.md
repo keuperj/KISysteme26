@@ -129,7 +129,6 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [RAPIDS CuML Demo](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_8/Rapids_intro.ipynb)
 * [RAPIDS CuML Benchmarks](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_8/cuml_benchmarks.ipynb) 
 
-### Lab
-* [Rapids](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_8/Rapids_intro.ipynb)
+
 
 </details>
