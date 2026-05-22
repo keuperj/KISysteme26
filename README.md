@@ -86,8 +86,8 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [Interactive DASK Slides](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/DASK.ipynb)
   
 ## Labor
-* [Dask DataFrames](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/01_dataframe.ipynb) 
-* [Dask Arrays](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/02_array.ipynb)
+* [Dask DataFrames](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/01_dataframe.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/01_dataframe_solution.ipynb)
+* [Dask Arrays](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/02_array.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/02_array_solution.ipynb)
 * [Dask Delayed](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/03_dask.delayed.ipynb)
 * [Dask Distributed](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_5/04_distributed.ipynb)
 
