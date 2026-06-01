@@ -123,9 +123,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 ### TPU Programming 
 * [TPU Tutorial](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_7/Getting_Started_with_PyTorch_on_Cloud_TPUs.ipynb)
-* [TPU MNIST example](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_7/PyTorch_TPU_MNIST_Training.ipynb)
-* [TPU ResNet-50 inference](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_7/PyTorch_TPU_ResNet50_Inference.ipynb)
-* [TPU Profiling](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_7/PyTorch_XLA_Profling_Colab_Tutorial.ipynb)
+
 
 
 
