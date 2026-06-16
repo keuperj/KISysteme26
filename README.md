@@ -141,7 +141,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 </details>
 
 <details>
-<summary> <H2> Woche 9  - Scaling DL </H2><BR></summary>
+<summary> <H2> Block 9  - Scaling DL </H2><BR></summary>
 
 ## Lab
 * [PyTorch Multi-GPU training (single Node)](https://docs.pytorch.org/tutorials/beginner/ddp_series_multigpu.html)
