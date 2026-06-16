@@ -128,8 +128,6 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 
 </details>
-<details>
-
 
 <details>
 <summary> <H2> Block 8 - High Level GPU Programming </H2><BR></summary>
