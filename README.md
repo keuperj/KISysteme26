@@ -149,3 +149,25 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 </details>
 
+<details>
+<summary> <H2> Block 10  - Inference I</H2><BR></summary>
+
+## Vorlesung
+* [Paper: Lottery Ticket Hypothesis](https://arxiv.org/pdf/1803.03635)
+* [PyTorch Pruning Tutorial](https://docs.pytorch.org/tutorials/intermediate/pruning_tutorial.html)
+* [Evolutionary Algorithms: EvoTorch](https://evotorch.ai/)
+
+## Lab
+### ONNX
+* [ONNX example](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_10/onnx_tutorial.ipynb)
+### Pytorch Pruning
+* [Pytorch Pruning example](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_10/pruning_tutorial.ipynb)
+### Pytorch Compile
+* [Torch Compile example](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_10/torch_compile_tutorial.ipynb)
+### TensorRT
+* [TensorRT Documentation](https://developer.nvidia.com/tensorrt-getting-started)
+* [TensorRT QuickStart Guide](https://docs.nvidia.com/deeplearning/tensorrt/latest/getting-started/quick-start-guide.html)
+* [TensorRT Tutorial](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_10/TensorRT_1.ipynb)
+  
+
+</details>
