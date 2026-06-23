@@ -168,6 +168,16 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 ### Pytorch Compile
 * [Torch Compile example](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_10/torch_compile_tutorial.ipynb)
 
-  
+</details>
+
+<details>
+<summary> <H2> Block 11  - Inference II</H2><BR></summary>
+## Vorlesung
+* [OLLAMA Models](https://ollama.com/library)
+* [vLLM model serving](https://vllm.ai/)
+
+## Lab
+* [OLLAMA in Colab]()
+* [Transformers optimization in Python]()
 
 </details>
