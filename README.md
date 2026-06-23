@@ -177,7 +177,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 * [vLLM model serving](https://vllm.ai/)
 
 ## Lab
-* [OLLAMA in Colab]()
-* [Transformers optimization in Python]()
+* [OLLAMA in Colab](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_11/Ollama_Setup.ipynb)
+* [Transformers optimization in Python](https://colab.research.google.com/github/keuperj/KISysteme26/blob/main/block_11/Getting_the_most_out_of_LLMs.ipynb)
 
 </details>
