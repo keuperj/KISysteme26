@@ -172,6 +172,7 @@ Material zur Vorlesung + Labor KI-Systeme an der HSO im SS26
 
 <details>
 <summary> <H2> Block 11  - Inference II</H2><BR></summary>
+  
 ## Vorlesung
 * [OLLAMA Models](https://ollama.com/library)
 * [vLLM model serving](https://vllm.ai/)
